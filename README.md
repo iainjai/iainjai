@@ -1,4 +1,4 @@
-# Hi there, I'm Injai 👋  
+# Hi there, I'm iainjai 👋  
 
 🎯 **Data Scientist in progress | Machine Learning | Data Visualization | Dashboard Development**  
 
